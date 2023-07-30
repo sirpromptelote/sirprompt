@@ -1,0 +1,13 @@
+{
+  "index": "Concept",
+  "process": "Process",
+  "story": "Story",
+
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://www.reddit.com/user/SirPrompt",
+    "newWindow": true
+  }
+
+}
